@@ -1,0 +1,31 @@
+Sugar,2,50
+Bread(sliced),311,200
+Bread(unsliced),229,150
+Egg,2,50
+Three-crown(tin),201,150
+Peak-milk(tin),230,120
+Peak-milk(sachet),791,50
+Bournvita(sachet),611,50
+Milo(tin),367,500
+Peak-milk(Large Sachet),889,700
+Milo(Large Sachet),934,700
+Bournvita(Large Sachet),758,100
+Custard(small sachet),383,200
+Cornflakes(small sachet),647,150
+Golden-morn(small sachet),121,100
+Detergent(small Wawu),198,120
+Detergent(small Aerial),354,115
+Detergent(Big Wawu),323,200
+Detergent(Big Aerial),222,250
+Cornflakes(big sachet),341,750
+Golden-morn(Large sachet),458,650
+smSprite,3,50
+smPepsi,3,50
+smFanta,757,50
+smLacasera,127,50
+bgSprite,956,150
+bgPepsi,374,150
+bgFanta,267,150
+bgLacasera,786,150
+bgCoke,546,150
+smCoke,234,50
